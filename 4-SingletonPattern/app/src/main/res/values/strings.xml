@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Patrones de diseño</string>
+    <string name="settings_button">Ajustes</string>
+    <string name="search_button">Buscar</string>
+    <string name="toolbar_title">Curso de JB</string>
+    <string name="toolbar_subtitle">El mejor profe del mundo ;)</string>
+    <string name="feature">feature</string>
+    <string name="detail_text">detail</string>
+    <string name="comedy">Comedia</string>
+    <string name="drama">Drama</string>
+    <string name="mistery">Misterio</string>
+    <string name="openDrawer">Abrir Menú</string>
+    <string name="closeDrawer">Cerrar Menú</string>
+
+</resources>
